@@ -1,0 +1,11 @@
+C:\Users\msi-laptop\Source\Repos\RoombotRunner\RoombotRunner\bin\Debug\netcoreapp2.1\RoombotRunner.deps.json
+C:\Users\msi-laptop\Source\Repos\RoombotRunner\RoombotRunner\bin\Debug\netcoreapp2.1\RoombotRunner.runtimeconfig.json
+C:\Users\msi-laptop\Source\Repos\RoombotRunner\RoombotRunner\bin\Debug\netcoreapp2.1\RoombotRunner.runtimeconfig.dev.json
+C:\Users\msi-laptop\Source\Repos\RoombotRunner\RoombotRunner\bin\Debug\netcoreapp2.1\RoombotRunner.dll
+C:\Users\msi-laptop\Source\Repos\RoombotRunner\RoombotRunner\obj\Debug\netcoreapp2.1\RoombotRunner.csprojAssemblyReference.cache
+C:\Users\msi-laptop\Source\Repos\RoombotRunner\RoombotRunner\obj\Debug\netcoreapp2.1\RoombotRunner.csproj.CoreCompileInputs.cache
+C:\Users\msi-laptop\Source\Repos\RoombotRunner\RoombotRunner\obj\Debug\netcoreapp2.1\RoombotRunner.AssemblyInfoInputs.cache
+C:\Users\msi-laptop\Source\Repos\RoombotRunner\RoombotRunner\obj\Debug\netcoreapp2.1\RoombotRunner.AssemblyInfo.cs
+C:\Users\msi-laptop\Source\Repos\RoombotRunner\RoombotRunner\bin\Debug\netcoreapp2.1\RoombotRunner.pdb
+C:\Users\msi-laptop\Source\Repos\RoombotRunner\RoombotRunner\obj\Debug\netcoreapp2.1\RoombotRunner.dll
+C:\Users\msi-laptop\Source\Repos\RoombotRunner\RoombotRunner\obj\Debug\netcoreapp2.1\RoombotRunner.pdb
